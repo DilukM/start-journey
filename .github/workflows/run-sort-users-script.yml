@@ -1,5 +1,5 @@
 name: run-python-sort-script
-on: pull_request
+on: push
 jobs:
   build:
     name: Run sort-users.py
