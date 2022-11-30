@@ -1,3 +1,3 @@
 # CONTRIBUTORS
 
-- [@mirosh-kavinda](https://github.com/mirosh-kavinda)
+- [@Mirosh-kavinda](https://github.com/mirosh-kavinda)
