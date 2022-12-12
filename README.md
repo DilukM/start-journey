@@ -36,7 +36,7 @@ We don't care if you break anything. This is a playground, and we promote freque
 4. Before you make any changes, [keep your fork in sync](https://www.freecodecamp.org/news/how-to-sync-your-fork-with-the-original-git-repository/) to avoid merge conflicts:
 
     ```bash
-    git remote add upstream https://github.com/zero-to-mastery/start-here-guidelines.git
+    git remote add upstream https://github.com/TECH-STRIKE/start-here-guidelines.git
     git pull upstream master
     ```
 
