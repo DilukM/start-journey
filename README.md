@@ -77,11 +77,11 @@ We don't care if you break anything. This is a playground, and we promote freque
 
     Read more about pull requests on the [GitHub help pages](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
-10. Wait until Zerobot or one of the maintainers merges your pull request. If there are any conflicts, you will get a notification.
+10. Wait until the maintainers merges your pull request. If there are any conflicts, you will get a notification.
 
 11. Go join a project and start contributing or create your own group apps. Don't be shy and enjoy creating things together (We have over 20 projects for all levels of programmers)! [Check out this guide](https://github.com/zero-to-mastery/start-here-guidelines/blob/master/Get_Started.md) for more information on selecting a project.
 
-12. To see the Zero to Mastery Icon in your GitHub profile, [follow these steps](https://help.github.com/articles/publicizing-or-hiding-organization-membership/) (you must complete steps 1 and 2 for this to work).
+12. To see the TECH-STRIKE Icon in your GitHub profile, [follow these steps](https://help.github.com/articles/publicizing-or-hiding-organization-membership/) (you must complete steps 1 and 2 for this to work).
 
 ## Anatomy of an open-source project:
 
